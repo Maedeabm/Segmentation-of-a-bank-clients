@@ -3,7 +3,9 @@ Objective:
 
 Visualize the distribution of each feature in the credit card dataset using histograms.
 
-Implementation:
+Implementation: Import Necessary Libraries:
 
-    Import Necessary Libraries:
+Import Necessary Libraries:
+
+    
 
